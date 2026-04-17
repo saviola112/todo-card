@@ -51,3 +51,18 @@ https://saviola112.github.io/todo-card/
 - Used aria-expanded for toggle
 - Used aria-live for time updates
 - All buttons are keyboard accessible
+
+## Stage 1B - Profile Card
+
+### Features
+
+- Displays user name and bio
+- Shows current time in milliseconds using Date.now()
+- Avatar image with alt text
+- Social links (open in new tab)
+- Hobbies and dislikes lists
+
+### Notes
+
+- Time updates every second
+- All required data-testid attributes are included
